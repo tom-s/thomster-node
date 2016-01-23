@@ -1,0 +1,13 @@
+{
+  "name": "thomster-node",
+  "version": "1.0.0",
+  "description": "node js back for thomster",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tom-s",
+  "license": "ISC"
+}
