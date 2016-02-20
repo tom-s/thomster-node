@@ -4,6 +4,7 @@
   "description": "node js back for thomster",
   "main": "index.js",
   "dependencies": {
+    "babel-polyfill": "^6.5.0",
     "clap-detector": "^0.4.0",
     "groupme": "^0.5.7",
     "immutable": "^3.7.6",
